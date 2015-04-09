@@ -19,4 +19,3 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
 ## Contact
 
 - [github.com/jeffreyjackson](https://github.com/jeffreyjackson)
-- [github.com/dkhamsing](https://github.com/dkhamsing)
