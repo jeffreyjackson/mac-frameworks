@@ -9,6 +9,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
 ### OS X
 - CocoaLumberjack: A fast & simple, yet powerful & flexible logging framework for Mac and iOS
   - https://github.com/CocoaLumberjack/CocoaLumberjack
+- OpenEmu: Emulator framework for Mac OS X
+  - https://github.com/OpenEmu/OpenEmu
 - Sparkle: A software update framework for OS X
   - https://github.com/sparkle-project/Sparkle
 - Squirrel: :shipit: Cocoa framework for updating OS X apps :shipit:
