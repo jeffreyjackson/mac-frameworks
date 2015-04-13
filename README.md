@@ -25,7 +25,7 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/djthorpe/postgresql-kit
 - Sparkle: A software update framework for OS X
   - https://github.com/sparkle-project/Sparkle
-- Squirrel: :shipit: Cocoa framework for updating OS X apps :shipit:
+- Squirrel: Cocoa framework for updating OS X apps
   - https://github.com/Squirrel/Squirrel.Mac
 - XMPPFramework: An XMPP Framework in Objective-C for Mac and iOS
   - https://github.com/robbiehanson/XMPPFramework
