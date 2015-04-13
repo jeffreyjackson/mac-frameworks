@@ -19,6 +19,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/shpakovski/MASShortcut
 - OpenEmu: Emulator framework for Mac OS X
   - https://github.com/OpenEmu/OpenEmu
+- postgresql-kit: Frameworks for integrating a PostgreSQL database with your Mac and iOS projects
+  - https://github.com/djthorpe/postgresql-kit
 - Sparkle: A software update framework for OS X
   - https://github.com/sparkle-project/Sparkle
 - Squirrel: :shipit: Cocoa framework for updating OS X apps :shipit:
