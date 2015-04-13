@@ -7,6 +7,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
 :large_orange_diamond: Swift projects
  
 ### OS X
+- CCHDarwinNotificationCenter: Inter-process signaling with addressable receivers using the Darwin notification center :large_orange_diamond:
+  - https://github.com/choefele/CCHDarwinNotificationCenter
 - CocoaLumberjack: A fast & simple, yet powerful & flexible logging framework for Mac and iOS
   - https://github.com/CocoaLumberjack/CocoaLumberjack
 - CoreParse: A shift/reduce parsing framework for Mac OS X and iOS
