@@ -9,6 +9,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
 ### OS X
 - Sparkle: A software update framework for OS X
   - https://github.com/sparkle-project/Sparkle
+- Squirrel: :shipit: Cocoa framework for updating OS X apps :shipit:
+  - https://github.com/Squirrel/Squirrel.Mac
 
 ### Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
