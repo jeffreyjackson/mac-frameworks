@@ -11,6 +11,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/CocoaLumberjack/CocoaLumberjack
 - MailCore: framework for working with the e-mail protocols IMAP and SMTP
   - https://github.com/MailCore/MailCore
+- MASShortcut: Modern framework for managing global keyboard shortcuts compatible with Mac App Store
+  - https://github.com/shpakovski/MASShortcut
 - OpenEmu: Emulator framework for Mac OS X
   - https://github.com/OpenEmu/OpenEmu
 - Sparkle: A software update framework for OS X
