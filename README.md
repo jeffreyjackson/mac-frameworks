@@ -9,6 +9,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
 ### OS X
 - CocoaLumberjack: A fast & simple, yet powerful & flexible logging framework for Mac and iOS
   - https://github.com/CocoaLumberjack/CocoaLumberjack
+- CoreParse: A shift/reduce parsing framework for Mac OS X and iOS
+  - https://github.com/beelsebob/CoreParse
 - MailCore: framework for working with the e-mail protocols IMAP and SMTP
   - https://github.com/MailCore/MailCore
 - MASShortcut: Modern framework for managing global keyboard shortcuts compatible with Mac App Store
