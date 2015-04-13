@@ -15,6 +15,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/sparkle-project/Sparkle
 - Squirrel: :shipit: Cocoa framework for updating OS X apps :shipit:
   - https://github.com/Squirrel/Squirrel.Mac
+- XMPPFramework: An XMPP Framework in Objective-C for Mac and iOS
+  - https://github.com/robbiehanson/XMPPFramework
 
 ### Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
