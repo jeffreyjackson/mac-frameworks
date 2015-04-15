@@ -9,6 +9,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
 ### OS X
 - AFNetworking: A delightful iOS and OS X networking framework
   - https://github.com/AFNetworking/AFNetworking
+- Alamofire: Elegant HTTP Networking in Swift :large_orange_diamond:
+  - https://github.com/Alamofire/Alamofire
 - CCHDarwinNotificationCenter: Inter-process signaling with addressable receivers using the Darwin notification center :large_orange_diamond:
   - https://github.com/choefele/CCHDarwinNotificationCenter
 - CocoaLumberjack: A fast & simple, yet powerful & flexible logging framework for Mac and iOS
