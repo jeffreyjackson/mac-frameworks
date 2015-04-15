@@ -27,6 +27,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/OpenEmu/OpenEmu
 - postgresql-kit: Frameworks for integrating a PostgreSQL database with your Mac and iOS projects
   - https://github.com/djthorpe/postgresql-kit
+- ResearchKit: create apps for medical research
+  - https://github.com/ResearchKit/ResearchKit
 - Sparkle: A software update framework for OS X
   - https://github.com/sparkle-project/Sparkle
 - Squirrel: Cocoa framework for updating OS X apps
