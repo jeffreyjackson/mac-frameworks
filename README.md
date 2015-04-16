@@ -27,6 +27,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/OpenEmu/OpenEmu
 - postgresql-kit: Frameworks for integrating a PostgreSQL database with your Mac and iOS projects
   - https://github.com/djthorpe/postgresql-kit
+- SnapKit: A Swift Autolayout DSL for iOS & OS X :large_orange_diamond:
+  - https://github.com/SnapKit/SnapKit
 - Sparkle: A software update framework for OS X
   - https://github.com/sparkle-project/Sparkle
 - Squirrel: Cocoa framework for updating OS X apps
