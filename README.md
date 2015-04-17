@@ -27,6 +27,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/nicklockwood/iVersion
 - MailCore: framework for working with the e-mail protocols IMAP and SMTP
   - https://github.com/MailCore/MailCore
+- Masonry: NSLayoutConstraints with a simplified, chainable and expressive syntax
+  - https://github.com/SnapKit/Masonry
 - MASShortcut: Modern framework for managing global keyboard shortcuts compatible with Mac App Store
   - https://github.com/shpakovski/MASShortcut
 - OpenEmu: Emulator framework for Mac OS X
