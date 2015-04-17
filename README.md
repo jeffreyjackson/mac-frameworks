@@ -21,6 +21,10 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/beelsebob/CoreParse
 - DrawKit: Vector and illustration framework for Mac OS X
   - https://github.com/DrawKit/DrawKit
+- iCarousel: A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
+  - https://github.com/nicklockwood/iCarousel
+- iVersion: Library for dynamically checking for updates to Mac/iPhone App Store apps
+  - https://github.com/nicklockwood/iVersion
 - MailCore: framework for working with the e-mail protocols IMAP and SMTP
   - https://github.com/MailCore/MailCore
 - MASShortcut: Modern framework for managing global keyboard shortcuts compatible with Mac App Store
