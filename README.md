@@ -15,6 +15,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/choefele/CCHDarwinNotificationCenter
 - CocoaLumberjack: A fast & simple, yet powerful & flexible logging framework for Mac and iOS
   - https://github.com/CocoaLumberjack/CocoaLumberjack
+- Concorde: Download and decode progressive JPEGs on iOS. :large_orange_diamond:
+  - https://github.com/contentful-labs/Concorde
 - CoreParse: A shift/reduce parsing framework for Mac OS X and iOS
   - https://github.com/beelsebob/CoreParse
 - DrawKit: Vector and illustration framework for Mac OS X
