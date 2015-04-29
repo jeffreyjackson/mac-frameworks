@@ -31,6 +31,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/SnapKit/Masonry
 - MASShortcut: Modern framework for managing global keyboard shortcuts compatible with Mac App Store
   - https://github.com/shpakovski/MASShortcut
+- Mixpanel: Unofficial Swift Mixpanel Client :large_orange_diamond:
+  - https://github.com/soffes/Mixpanel
 - OpenEmu: Emulator framework for Mac OS X
   - https://github.com/OpenEmu/OpenEmu
 - postgresql-kit: Frameworks for integrating a PostgreSQL database with your Mac and iOS projects
