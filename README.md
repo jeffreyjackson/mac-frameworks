@@ -19,6 +19,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/contentful-labs/Concorde
 - CoreParse: A shift/reduce parsing framework for Mac OS X and iOS
   - https://github.com/beelsebob/CoreParse
+- Crypto: Swift CommonCrypto wrapper :large_orange_diamond:
+  - https://github.com/soffes/Crypto
 - DrawKit: Vector and illustration framework for Mac OS X
   - https://github.com/DrawKit/DrawKit
 - iCarousel: A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
@@ -43,6 +45,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/sparkle-project/Sparkle
 - Squirrel: Cocoa framework for updating OS X apps
   - https://github.com/Squirrel/Squirrel.Mac
+- X: Easier cross platform Mac & iOS development with Swift :large_orange_diamond:
+  - https://github.com/soffes/X
 - XMPPFramework: An XMPP Framework in Objective-C for Mac and iOS
   - https://github.com/robbiehanson/XMPPFramework
 
