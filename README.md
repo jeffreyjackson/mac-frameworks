@@ -45,6 +45,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-frame
   - https://github.com/sparkle-project/Sparkle
 - Squirrel: Cocoa framework for updating OS X apps
   - https://github.com/Squirrel/Squirrel.Mac
+- Stargate: A communication channel from your Mac to your watch. :large_orange_diamond:
+  - https://github.com/contentful-labs/Stargate
 - X: Easier cross platform Mac & iOS development with Swift :large_orange_diamond:
   - https://github.com/soffes/X
 - XMPPFramework: An XMPP Framework in Objective-C for Mac and iOS
